@@ -33,8 +33,8 @@
 
 
 
-## Preàmbul [🔝](#top)
-- *Aquesta és una FAQ de la comunitat. Si us plau, considera també llegir els [docs oficials](https://docs.flipperzero.one/).*
+## Pròleg [🔝](#top)
+- *Aquesta és una FAQ no oficial. Si us plau, considera també llegir els [docs oficials](https://docs.flipperzero.one/).*
 - *Es va escriure amb informació del firmware més recent de dev, potser hagis de esperar a una llançament (pre) del firmware abans que algunes de les preguntes/respostes siguin rellevants.*
 - *Aquest FAQ encara està en desenvolupament, i les aportacions són benvingudes.*
 - *Si la teva pregunta no està resposta aquí, **CERCA** al [Discord](https://flipperzero.one/discord) i comprova els missatges fixats abans de fer-la allà.*
@@ -43,7 +43,12 @@
 ## General [🔝](#top)
 
 ### Quina targeta MicroSD hauria de fer servir?
- - Hauria de ser d'una marca de renom (com SanDisk, Sony, etc.) perquè sovint les targetes més barates no admeten del tot el protocol de comunicació que fa servir Flipper.
+ - Hauria de ser d'una marca de renom (com SanDisk, Samsung, etc.) perquè sovint les targetes més barates no admeten del tot el protocol de comunicació que fa servir Flipper.
+   <details>
+    <summary>Expandeix-me per veure mes detalls.</summary>
+    <em>El Flipper Zero fa servir una interfície de baix consum i de baixa velocitat anomenada SPI, mentre que la majoria de smartphones i ordinadors utilitzen una interfície més ràpida anomenada SDIO. 
+    Si feu servir una targeta de mala qualitat, és possible que la interfície SPI no estigui implementada correctament o que no hi hagi suport per a aquesta modalitat, cosa que pot causar problemes de rendiment i consum electricitat innecessàriament.</em>
+  </details>
  - La targeta pot tenir un màxim de 128GB, hauria de tenir una capacitat d'entre 4 i 64 GB, tot i que sincerament amb una targeta de 8 GB ja n'hi ha més que prou.
  - Després d'inserir la targeta, utilitzeu el menú de configuració de Flipper per formatar-la (esborrar-la) i fer-ne una prova.
  - Abans d'expulsar la targeta, desmunteu-la a través del menú de configuració per assegurar-vos que les dades no es corrompin.
@@ -87,17 +92,17 @@
 
 ### Com aconsegueixo un Flipper amb carrosseria negra?
  Això ja no és possible*, eren exclusius per a patrocinadors de Kickstarter.
- (*Ja no és possible a menys que estigui disposat a pagar centenars de dòlars per un a eBay.)
+ (*Ja no és possible a menys que estigui disposat a pagar una burrada per un a eBay.)
 
 ### Com invertesc la pantalla/canvi la il·luminació de fons/canvi la coberta de l'estoig, etc.
- Aquestes són totes modificacions de maquinari, generalment inaccessibles per a l'usuari mitjà. Busqueu o pregunteu al respecte sobre com fer-ho si esteu realment interessat, [r/flipperzero](https://old.reddit.com/r/flipperzero/) és un lloc excel·lent per començar.
+ Aquestes són totes modificacions de maquinari, generalment inaccessibles per a l'usuari mitjà. Busqueu o pregunteu al respecte sobre com fer-ho si esteu realment interessat, [r/flipperzero](https://old.reddit.com/r/flipperzero/) seria un lloc excel·lent per començar si no fos per la quantitat de Gatekeepers que hi ha.
 
 ### Hi haurà futures revisions de maquinari?
  Tecnicament parlant, hi haurà una revisió de maquinari **molt menor** a prop futur. Funcionalment parlant, serà idèntica a qualsevol altre Flipper Zero ja venut. La revisió només reemplaça alguns components internos i no ofereix cap nova característica en comparació amb els dispositius existents, de manera que no val la pena esperar a comprar-lo.
  A més a més, hi ha conceptes per a un [Flipper One](https://flipperzero.one/one), però sense un calendari de llançament.
 
 ### Què és el mode Dummy?
- Actualment, només permet obrir el joc Snake quan està actiu. En el futur, amagarà totes les aplicacions excepte els jocs, en cas que el vostre dispositiu mai es revisi o s'apoderi.
+ Amaga totes les aplicacions excepte els jocs, en cas que el vostre dispositiu mai caigui en males mans.
 
 ### El meu dispositiu està congelat, com reinicio/arreglo el problema?
  - Per reiniciar el dispositiu: manteniu premuts els botons BACK i LEFT, i llavors deixeu-los anar simultàniament. Si això no funcionava, *desconnecteu el cable USB* i manteniu premut BACK durant 30 segons. Això realitzarà un reinici normal.
