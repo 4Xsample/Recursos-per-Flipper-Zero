@@ -73,14 +73,10 @@
 - Si no hi havia cap fitxer/paquet d'actualització precompilat, haureu de construir vosaltres mateixos el firmware. Vegeu la següent pregunta per a més detalls.
  Per a més informació, llegiu la [documentació oficial](https://docs.flipperzero.one/basics/firmware-update).
 
-### Hi ha arxius amb les sesions de preguntes i respostes del passat?
- L'arxivació és un esforç comunitari, de manera que només n'hi ha algunes disponibles.
- [https://github.com/flipperdevices/flipper-questions-and-answers](https://github.com/flipperdevices/flipper-questions-and-answers)
-
 ### Com escric/compilo les meves pròpies aplicacions/connectors/firmware/actius?
 <blockquote>
   <em>(El següent és un resum de la <a href="https://github.com/flipperdevices/flipperzero-firmware/blob/dev/documentation/fbt.md">documentació oficial de FBT</a>.)</em><br>
-  Des de l'introducció de <a href="https://github.com/flipperdevices/flipperzero-firmware/blob/dev/documentation/fbt.md">Flipper Build Tool (FBT)</a>, això s'ha fet molt fàcil! Hauríeu de tenir una comprensió bàsica de treballar a la línia d'ordres abans de continuar. L'única instal·lació prèvia necessària és <a href="https://git-scm.com/downloads">Git</a>. També hauríeu d'haver instal·lat una IDE, es recomana <a href="https://code.visualstudio.com/">VSCode</a> ja que el <a href="https://github.com/flipperdevices/flipperzero-firmware">repositori del firmware</a> té <a href="https://github.com/flipperdevices/flipperzero-firmware/blob/dev/documentation/fbt.md#vscode-integration">fitxers de configuració</a> per a ell.
+  Des de l'introducció de <a href="https://github.com/flipperdevices/flipperzero-firmware/blob/dev/documentation/fbt.md">Flipper Build Tool (FBT)</a>, això s'ha fet molt fàcil! Hauríeu de tenir una comprensió bàsica de treballar a la línia de comandes abans de continuar. L'única instal·lació prèvia necessària és <a href="https://git-scm.com/downloads">Git</a>. També hauríeu d'haver instal·lat una IDE, es recomana <a href="https://code.visualstudio.com/">VSCode</a> ja que el <a href="https://github.com/flipperdevices/flipperzero-firmware">repositori del firmware</a> té <a href="https://github.com/flipperdevices/flipperzero-firmware/blob/dev/documentation/fbt.md#vscode-integration">fitxers de configuració</a> per a ell.
   <details>
     <summary>Expandeix-me per veure els altres passos.</summary>
     <em>(WIP, tranqui que la cosa va amb calma.)</em>
@@ -95,7 +91,7 @@
  (*Ja no és possible a menys que estigui disposat a pagar una burrada per un a eBay.)
 
 ### Com invertesc la pantalla/canvi la il·luminació de fons/canvi la coberta de l'estoig, etc.
- Aquestes són totes modificacions de maquinari, generalment inaccessibles per a l'usuari mitjà. Busqueu o pregunteu al respecte sobre com fer-ho si esteu realment interessat, [r/flipperzero](https://old.reddit.com/r/flipperzero/) seria un lloc excel·lent per començar si no fos per la quantitat de Gatekeepers que hi ha.
+ Aquestes són totes modificacions de maquinari, generalment inaccessibles per a l'usuari mitjà. Busqueu o pregunteu al respecte sobre com fer-ho si esteu realment interessat, [r/flipperzero](https://www.reddit.com/r/flipperzero/) seria un lloc excel·lent per començar si no fos per la quantitat de Gatekeepers que hi ha.
 
 ### Hi haurà futures revisions de maquinari?
  Tecnicament parlant, hi haurà una revisió de maquinari **molt menor** a prop futur. Funcionalment parlant, serà idèntica a qualsevol altre Flipper Zero ja venut. La revisió només reemplaça alguns components internos i no ofereix cap nova característica en comparació amb els dispositius existents, de manera que no val la pena esperar a comprar-lo.
@@ -202,17 +198,17 @@
  Tingues en compte que això no desbloquejarà màgicament aquestes freqüències, encara estaràs subjecte a les limitacions del dispositiu.
 
 ### Vaig capturar un senyal de garatge/cotxe/etc., però no funciona quan el reprodueixo.
- A menys que l'objecte d'interès sigui molt antic, probablement utilitzi codis de rotació. Llegeix més a continuació.
+ A menys que l'objecte d'interès sigui molt antic, probablement utilitzi rolling code. Llegeix més a continuació.
 
-### Què és un codi de rotació?
+### Què és un rolling code?
  Imagina't això: imagina que el teu garatge està programat per obrir quan rebi el codi "1234" d'un transponedor.
  Aquest seria un codi estàtic, on un atac de repetició (llegeix RAW) seria capaç d'obrir el garatge.
  Com que els atacs de repetició són tan fàcils, la majoria dels dispositius barrejaran el codi després de cada ús.
  Així, la primera vegada que obris el teu garatge, el transponedor envia "1234" i la segona vegada envia "5678".
- Els codis de rotació no són tan senzills, però ja t'has fet una idea.
+ Els rolling code no són tan senzills, però ja t'has fet una idea.
 
-### Vaig reproduir un codi de rotació i ara la meva targeta/transponedor original no funciona.
- Hauràs de resincronitzar el teu dispositiu vell manualment, ja que ara està endarrerit respecte al codi de rotació.
+### Vaig reproduir un rolling code i ara la meva targeta/transponedor original no funciona.
+ Hauràs de resincronitzar el teu dispositiu vell manualment, ja que ara està endarrerit respecte al rolling code.
 
 ### Què és un codi Debruin/Brute force?
  Un codi brute force intenta tots els codis possibles per a una longitud de bits específica, però això és poc eficient.
@@ -308,9 +304,6 @@
 ### Pot Flipper emular un terminal de pagament i autoritzar transaccions?
  No. Comenceu a veure un patró aquí?
 
-### On es menciona la característica "USB/LibNFC NFC Reader" al [lloc web del setembre](https://blog.flipperzero.one/september-progress/)?
- Aquesta es va descartar a causa de problemes de temps, més detalls en [aquesta incidència de GitHub](https://github.com/flipperdevices/flipperzero-firmware/issues/1173#issuecomment-1127728562).
-
 ### On puc aprendre més sobre la tecnologia NFC i RFID?
  - Introducció tant a les baixes com a les altes frequencies: https://blog.flipperzero.one/rfid/
  - Tipus de NFC https://www.rfwireless-world.com/Tutorials/NFC-Type1-Tag-vs-NFC-Type2-Tag-vs-NFC-Type3-Tag-NFC-Type4-Tag-Types.html
@@ -327,7 +320,7 @@
  (Nota: en descarregar, es *recomana fortament* desmuntar la targeta SD del teu Flipper i connectar-la directament al teu ordinador.) Si només necessiteu una tauleta per a un dispositiu, podeu utilitzar [l'eina de dispositiu IR de Flipper Maker](https://flippermaker.github.io/) per crear-la i transferir-la al moment.
 
 ### La tauleta universal de TV no funciona a més del botó d'encès.
- La base de dades universal de la tauleta de TV conté principalment codis d'encès i molt poques coses més. Aquest fitxer (ubicat a `infrared/assets/tv.ir` a la targeta SD) es pot reemplaçar manualment amb un de contenint codis addicionals per a totes les tecles. Per fer-ho, descarregueu [aquest fitxer](https://raw.githubusercontent.com/UberGuidoZ/Flipper/main/Infrared/tv.ir) i utilitzeu qFlipper per transferir-lo a la ruta del text anterior.
+ La base de dades universal de TV conté principalment codis d'encès i molt poques coses més. Aquest fitxer (ubicat a `infrared/assets/tv.ir` a la targeta SD) es pot reemplaçar manualment amb un de contenint codis addicionals per a totes les tecles. Per fer-ho, descarregueu [aquest fitxer](https://raw.githubusercontent.com/UberGuidoZ/Flipper/main/Infrared/tv.ir) i utilitzeu qFlipper per transferir-lo a la ruta del text anterior.
 
 ### Quins són els codis CSV/Pronto/IR Plus?
  Tots tres són diferents formats de bases de dades d'infrarojos. No són compatibles de forma nativa amb Flipper, però existeixen repositoris que contenen versions convertides i compatibles, com ara [Flipper-IRDB](https://github.com/logickworkshop/Flipper-IRDB).
@@ -339,7 +332,7 @@
  Fins que es posi en el firmware, la millor opció és intentar utilitzar un dels següents convertidors:
  - [http://helppox.com/badusbconvert.html](http://helppox.com/badusbconvert.html)
  - [https://flippermaker.github.io/](https://flippermaker.github.io/) (BadUSB String To Alt Code)
-
+ Molts firmware no oficials ja porten aquesta opció
 
 ## iButton [🔝](#top)
  *(WIP)*
