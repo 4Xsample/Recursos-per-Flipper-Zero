@@ -1,4 +1,4 @@
-<a id="top" href="https://github.com/djsime1/awesome-flipperzero">
+<a id="top">
   <img src="Flipper.png" align="center" alt="Que collons es el Flipper zero?" title="Que collons es el Flipper zero?">
 </a>
 </br
