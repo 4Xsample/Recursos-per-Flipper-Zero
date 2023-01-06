@@ -78,7 +78,7 @@
   Des de l'introducció de <a href="https://github.com/flipperdevices/flipperzero-firmware/blob/dev/documentation/fbt.md">Flipper Build Tool (FBT)</a>, això s'ha fet molt fàcil! Hauríeu de tenir una comprensió bàsica de treballar a la línia d'ordres abans de continuar. L'única instal·lació prèvia necessària és <a href="https://git-scm.com/downloads">Git</a>. També hauríeu d'haver instal·lat una IDE, es recomana <a href="https://code.visualstudio.com/">VSCode</a> ja que el <a href="https://github.com/flipperdevices/flipperzero-firmware">repositori del firmware</a> té <a href="https://github.com/flipperdevices/flipperzero-firmware/blob/dev/documentation/fbt.md#vscode-integration">fitxers de configuració</a> per a ell.
   <details>
     <summary>Expandeix-me per veure els altres passos.</summary>
-    <em>(WIP, disculpeu això frena la vostra entusiasme.)</em>
+    <em>(WIP, tranqui que la cosa va amb calma.)</em>
   </details>
 </blockquote>
 
