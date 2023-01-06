@@ -24,11 +24,6 @@ Gràcies per passar!
 
 ## Firmwares & Tweaks
 
-<table align="right">
-  <tr><th><strong>Hey you!</strong></th></tr>
-  <tr><td>🔰 <em><a href="https://github.com/djsime1/awesome-flipperzero/blob/main/Firmwares.md">Click here</a> for a feature<br>comparison of these firmwares!</em></td></tr>
-</table>
-
 - [`Unleashed` Firmware amb suport per rolling codes modificacions estables i jocs afegits.](https://github.com/DarkFlippers/unleashed-firmware)
 - [`RogueMaster` Fork del Unleashed amb gràfics personalitzats i modificacions experimentals](https://github.com/RogueMaster/flipperzero-firmware-wPlugins)
 - [`Flipper-Xtreme` Firmware que agafa codi de tots els firmwares de la escena, millorant-ne la implementació i amb grafics NSFW arreu.](https://github.com/ClaraCrazy/Flipper-Xtreme)
