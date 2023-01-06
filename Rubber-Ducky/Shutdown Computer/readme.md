@@ -14,10 +14,10 @@ Aquest script utilitza el llenguatge DuckyScript per apagar l'ordinador amb un R
 
 1. Esperar 1 segon (`DELAY 1000`)
 2. Pressionar la tecla Windows + R (`GUI r`)
-3. Esperar meitat de segon (`DELAY 500`)
+3. Esperar mig segon (`DELAY 500`)
 4. Escriure "cmd" i pressionar Enter (`STRING cmd` i `ENTER`)
-5. Esperar meitat de segon (`DELAY 500`)
+5. Esperar mig segon (`DELAY 500`)
 6. Escriure "shutdown /s /t 0" i pressionar Enter (`STRING shutdown /s /t 0` i `ENTER`)
-7. Esperar meitat de segon (`DELAY 500`)
+7. Esperar mig segon (`DELAY 500`)
 
 Això farà que l'ordinador es tanqui immediatament.
