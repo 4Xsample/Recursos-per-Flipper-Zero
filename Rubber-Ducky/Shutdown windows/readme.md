@@ -6,18 +6,24 @@
 
 
 
-# Apagar l'ordinador amb un Rubber Ducky
+# Script de Rubber Ducky
 
-Aquest script utilitza el llenguatge DuckyScript per apagar l'ordinador amb un Rubber Ducky.
+Aquest és un script escrit en llenguatge de Rubber Ducky per a ser utilitzat amb un dispositiu Rubber Ducky. El Rubber Ducky és un dispositiu que es presenta com una unitat flash normal, però quan es connecta a un ordinador pot executar comandes com si es digitessin des del teclat.
 
-## Passos del script
+## Funcionament
 
-1. Esperar 1 segon (`DELAY 1000`)
-2. Pressionar la tecla Windows + R (`GUI r`)
-3. Esperar mig segon (`DELAY 500`)
-4. Escriure "cmd" i pressionar Enter (`STRING cmd` i `ENTER`)
-5. Esperar mig segon (`DELAY 500`)
-6. Escriure "shutdown /s /t 0" i pressionar Enter (`STRING shutdown /s /t 0` i `ENTER`)
-7. Esperar mig segon (`DELAY 500`)
+Quan es connecta el Rubber Ducky al ordinador, es comença a executar el script. Aquest script es divideix en línies d'ordres, cada una de les quals es descriu a continuació:
 
-Això farà que l'ordinador es tanqui immediatament.
+1. `DELAY 1000` - Fa una pausa de 1000 mil·lisegons (1 segon) abans de continuar amb la següent línia.
+2. `GUI r` - Pressiona la tecla de GUI (Windows) i la tecla "r". Això obre el diàleg "Executar".
+3. `DELAY 500` - Fa una pausa de 500 mil·lisegons (0,5 segons) abans de continuar amb la següent línia.
+4. `STRING cmd` - Escriu la paraula "cmd" com si fos digitada des del teclat.
+5. `DELAY 500` - Fa una pausa de 500 mil·lisegons (0,5 segons) abans de continuar amb la següent línia.
+6. `ENTER` - Pressiona la tecla d'intro (Enter).
+7. `DELAY 500` - Fa una pausa de 500 mil·lisegons (0,5 segons) abans de continuar amb la següent línia.
+8. `STRING shutdown /s /t 0` - Escriu la comanda "shutdown /s /t 0" com si fos digitada des del teclat.
+9. `DELAY 500` - Fa una pausa de 500 mil·lisegons (0,5 segons) abans de continuar amb la següent línia.
+10. `ENTER` - Pressiona la tecla d'intro (Enter).
+
+Aquest script obre el diàleg "Executar", escriu la paraula "cmd" i pressiona intro per obrir una finestra del símbol del sistema, i després introdueix una comanda per a apagar l'ordinador.
+
