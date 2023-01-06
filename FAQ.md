@@ -1,5 +1,5 @@
 <a id="top">
-  <img src="Flipper.png" align="center" alt="Que collons es el Flipper zero?" title="Que collons es el Flipper zero?">
+  <img src="media/Flipper.png" align="center" alt="Que collons es el Flipper zero?" title="Que collons es el Flipper zero?">
 </a>
 </br>
 </br>
