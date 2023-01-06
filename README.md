@@ -1,13 +1,10 @@
 
-<a href="https://discord.gg/ahVq54p">
-<img src="https://img.shields.io/discord/667340023829626920?logo=discord" alt="chat on Discord">
-</br> 
-<a href="https://twitter.com/4xsample/follow?screen_name=shields_io">
-<img src="https://img.shields.io/twitter/follow/4xsample?style=social&logo=twitter" alt="follow on Twitter"></br>
-<a href="https://www.paypal.com/donate/?hosted_button_id=EFVMSRHVBNJP4">
-<img src="https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white" alt="PayPal">
-<img src="https://img.shields.io/badge/Hack-The%20Planet-orange" alt="Hack the planet" height=24>
-</a>
+
+|               |               |               |               |               |
+|:-------------:|:-------------:|:-------------:|-------------:|-------------:|
+| ![Hack the planet](https://img.shields.io/badge/Hack-The%20Planet-orange) | [![Discord](https://img.shields.io/discord/667340023829626920?logo=discord)](https://discord.gg/ahVq54p) | [![Twitter](https://img.shields.io/twitter/follow/4xsample?style=social&logo=twitter)](https://twitter.com/4xsample/follow?screen_name=shields_io) | [![4Xsample@mastodon.social](https://img.shields.io/badge/Mastodon-@4Xsample-blueviolet?style=for-the-badge&logo=mastodon)](https://mastodon.social/@4Xsample) | [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://www.paypal.com/donate/?hosted_button_id=EFVMSRHVBNJP4) |
+
+
 
 # Recursos de Flipper Zero
 
