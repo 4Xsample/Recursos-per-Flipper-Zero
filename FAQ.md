@@ -1,8 +1,9 @@
 <a id="top" href="https://github.com/djsime1/awesome-flipperzero">
-  <img src="https://github.com/4Xsample/Recursos-per-Flipper-Zero/blob/main/Flipper.png?raw=true" align="center" alt="Que collons es el Flipper zero?" title="Que collons es el Flipper zero?">
+  <img src="Flipper.png" align="center" alt="Que collons es el Flipper zero?" title="Que collons es el Flipper zero?">
 </a>
-
-<table align="center">
+</br
+>
+<table align="left">
   <tr><th colspan="8">Índex</th></tr>
   <tr>
     <td><a href="#general-">General</a></td>
@@ -21,6 +22,7 @@
 </br>
 </br>
 
+
 |               |               |               |               |               |
 |:-------------:|:-------------:|:-------------:|-------------:|-------------:|
 | ![Hack the planet](https://img.shields.io/badge/Hack-The%20Planet-orange) | [![Discord](https://img.shields.io/discord/667340023829626920?logo=discord)](https://discord.gg/ahVq54p) | [![Twitter](https://img.shields.io/twitter/follow/4xsample?style=social&logo=twitter)](https://twitter.com/4xsample/follow?screen_name=shields_io) | [![4Xsample@mastodon.social](https://img.shields.io/badge/Mastodon-@4Xsample-blueviolet?style=for-the-badge&logo=mastodon)](https://mastodon.social/@4Xsample) | [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://www.paypal.com/donate/?hosted_button_id=EFVMSRHVBNJP4) |
@@ -36,7 +38,7 @@
 - *Es va escriure amb informació del firmware més recent de dev, potser hagis de esperar a una llançament (pre) del firmware abans que algunes de les preguntes/respostes siguin rellevants.*
 - *Aquest FAQ encara està en desenvolupament, i les aportacions són benvingudes.*
 - *Si la teva pregunta no està resposta aquí, **CERCA** al [Discord](https://flipperzero.one/discord) i comprova els missatges fixats abans de fer-la allà.*
-
+- *Tot el que aquí es comenta es nomes aplicable al firmware oficial, altres firmwares poden donar mes opcions de les que hi ha aquí reflexades.
 
 ## General [🔝](#top)
 
@@ -139,6 +141,7 @@
       <li>Si obtens un error "Access Denied", assegura't que qFlipper no estigui en execució!</li>
     </ul>
   </details>
+  <details>
 <summary>MacOS/Linux</summary>
     <em>Note: I'm a filthy Windows user without any way to verify this procedure. Let me know if it's wrong!</em>
     <ul>
@@ -153,6 +156,7 @@
       <li><strong>Fet!</strong></li>
     </ul>
   </details>
+  <details>
 <summary>Android</summary>
     <ul>
       <li>Instal·la <a href="https://play.google.com/store/apps/details?id=de.kai_morich.serial_usb_terminal">Serial USB Terminal</a> si no ho estigués ja.</li>
@@ -165,6 +169,7 @@
       <li><em>Nota: per sortir del mode de registre, hauràs de desconnectar i reconnectar utilitzant la icona.</em></li>
     </ul>
   </details>
+  <details>
 <summary>iPhone</summary>
     Malauradament, iOS és incapaç d'accedir a un terminal sèrie per USB; intenta un dels altres mètodes.
   </details>
