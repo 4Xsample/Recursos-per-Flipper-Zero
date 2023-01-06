@@ -28,10 +28,16 @@
 <a href="https://www.paypal.com/donate/?hosted_button_id=EFVMSRHVBNJP4">
 <img src="https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white" alt="PayPal">
 </a>
+
+|               |               |               |
+|:-------------:|:-------------:|:-------------:|
+| ![Hack the planet](https://img.shields.io/badge/Hack-The%20Planet-orange) | [![Discord](https://img.shields.io/discord/667340023829626920?logo=discord)](https://discord.gg/ahVq54p) | [![Twitter](https://img.shields.io/twitter/follow/4xsample?style=social&logo=twitter)](https://twitter.com/4xsample/follow?screen_name=shields_io) | [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://www.paypal.com/donate/?hosted_button_id=EFVMSRHVBNJP4) |
+
+
 </br>
 
 ## Preàmbul [🔝](#top)
-- *Aquest és un FAQ de la comunitat. Si us plau, considera també llegir els [docs oficials](https://docs.flipperzero.one/).*
+- *Aquesta és una FAQ de la comunitat. Si us plau, considera també llegir els [docs oficials](https://docs.flipperzero.one/).*
 - *Es va escriure amb informació del firmware més recent de dev, potser hagis de esperar a una llançament (pre) del firmware abans que algunes de les preguntes/respostes siguin rellevants.*
 - *Aquest FAQ encara està en desenvolupament, i les aportacions són benvingudes.*
 - *Si la teva pregunta no està resposta aquí, **CERCA** al [Discord](https://flipperzero.one/discord) i comprova els missatges fixats abans de fer-la allà.*
@@ -41,10 +47,9 @@
 
 ### Quina targeta MicroSD hauria de fer servir?
  - Hauria de ser d'una marca de renom (com SanDisk, Sony, etc.) perquè sovint les targetes més barates no admeten del tot el protocol de comunicació que fa servir Flipper.
- - La targeta hauria de tenir una capacitat entre 4 i 64 GB, però amb una targeta de 8 GB ja n'hi ha més que prou.
+ - La targeta pot tenir un màxim de 128GB, hauria de tenir una capacitat d'entre 4 i 64 GB, tot i que sincerament amb una targeta de 8 GB ja n'hi ha més que prou.
  - Després d'inserir la targeta, utilitzeu el menú de configuració de Flipper per formatar-la (esborrar-la) i fer-ne una prova.
  - Abans d'expulsar la targeta, desmunteu-la a través del menú de configuració per assegurar-vos que les dades no es corrompin.
- - Nota: potser necessitareu un clip de paper o un objecte similar per a introduir i extreure la targeta SD del dispositiu.
  - Llegiu la [documentació oficial](https://docs.flipperzero.one/basics/sd-card) per a més informació!
 
 ### Com instalo bases de dades i volcaments?
@@ -55,8 +60,7 @@
  - Per a enchufar la targeta SD al vostre PC, deixeu anar els fitxers a les carpetes corresponents (els noms de les carpetes són similars a les extensions de fitxer).
 
 ### Com instalo aplicacions i connectors?
- Suposant que l'aplicació s'hagi empaquetat com a fitxer `.fap`, instal·lar-la és tan fàcil com col·locar-la dins del directori `apps` de la targeta SD del vostre Flipper. Podeu iniciar l'aplicació des de l'aplicació `Applications`. Si l'aplicació no s'ha compilat en un `.fap`, o *amablement* demaneu a l'autor o compileu-la vosaltres mateixos.
-
+ Suposant que l'aplicació s'hagi empaquetat com a fitxer `.fap`, instal·lar-la és tan fàcil com col·locar-la dins del directori `apps` de la targeta SD del vostre Flipper. Podeu iniciar l'aplicació des de l'aplicació `Applications`. Si l'aplicació no s'ha compilat en un `.fap`, compileu-la vosaltres mateixos o *amablement* demaneu a l'autor si ho pot fer.
 
 ### Com instalo firmware personalitzats?
  Primer, pregunteu-vos si realment ho necessiteu. Sí, potser sigui divertit sortir dels límits de transmissió de Sub-GHz, però quant sovint ho fareu realment? Val la pena realment trencar la llei?
