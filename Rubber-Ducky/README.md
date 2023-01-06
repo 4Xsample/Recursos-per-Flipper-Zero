@@ -22,5 +22,6 @@ Gràcies per passar!
 ## Ús
 
 Per utilitzar aquests scripts, simplement copieu el codi i enganxeu-lo en un fitxer de text. Deseu el fitxer amb una extensió `.txt` i després canvieu-li el nom a `inject.bin` per utilitzar-lo amb un Rubber Ducky.
+També pots deixar el `.txt` dins la carpeta `badusb` del [Flipper Zero](https://flipperzero.one)
 
 Tingueu en compte que aquests scripts es proporcionen tal com són i no puc garantir que funcionin en totes les situacions. Utilitzeu-los sota la vostra responsabilitat.
