@@ -1,8 +1,8 @@
 <a id="top" href="https://github.com/djsime1/awesome-flipperzero">
-  <img src="https://github.com/4Xsample/Recursos-per-Flipper-Zero/blob/main/Flipper.png?raw=true" align="center" alt="Flipper Zero FAQ" title="Flipper Zero FAQ">
+  <img src="https://github.com/4Xsample/Recursos-per-Flipper-Zero/blob/main/Flipper.png?raw=true" align="center" alt="Que collons es el Flipper zero?" title="Que collons es el Flipper zero?">
 </a>
 
-<table align="left">
+<table align="center">
   <tr><th colspan="8">Índex</th></tr>
   <tr>
     <td><a href="#general-">General</a></td>
