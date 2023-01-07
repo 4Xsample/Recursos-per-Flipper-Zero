@@ -15,6 +15,7 @@ Preguntes frequents sobre el
 # Carpeta Media
 Aquesta carpeta es destina a emmagatzemar les imatges que es fan servir als documents del repositori.
 
+## Fun fact
 El logo que es fa servir en aquest repositori conté un text en codi que representa codi escrit en C++ (completament inventat), però que fa referència a diferents pel·lícules:
 
 - War Games
