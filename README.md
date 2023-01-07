@@ -18,12 +18,13 @@ Benvingut al meu repositori de recursos de Flipper Zero!
 
 El Flipper Zero és un dispositiu hardware petit i portàtil que us permet provar i demostrar diverses vulnerabilitats hardware i software amb facilitat. És una eina útil per als pentesters, investigadors i educadors que volen demostrar els riscos de l'ús de determinades tecnologies.
 
-He compilat una llista de recursos que he trobat útils i interessants en la meva feina amb el Flipper Zero. Això inclou tutoriels, documentació i altra informació útil.
+He compilat una llista de recursos que he trobat útils i interessants en el meu camí d'aprenentatge amb el Flipper Zero. Això inclou tutorials, documentació i altra informació útil.
 
 Espere que trobeu aquests recursos útils! Si teniu qualsevol pregunta o suggeriment, no dubteu en posar-vos en contacte amb mi a Discord o Twitter (enllaços proporcionats a les insignies de dalt d'aquest readme).
 
 Et recomanem que passis a fer un cop d'ull a la [FAQ](./FAQ.md) per obtenir respostes a les preguntes més freqüents.
 
+Aquest repositori conté principalment textos extrets d'altres fonts traduits i lleugerament corregits o completats, el gruix de la feina no es meu.
 
 Si trobeu aquests recursos útils i voleu donar suport a la meva feina, tingueu en compte fer una donació a través de PayPal (enllaç proporcionat a la insignia de dalt d'aquest readme).
 
