@@ -6,7 +6,7 @@
 
 
 
-# Script de Rubber Ducky
+# Apagar windows
 
 Aquest és un script escrit en llenguatge de Rubber Ducky per a ser utilitzat amb un dispositiu Rubber Ducky. El Rubber Ducky és un dispositiu que es presenta com una unitat flash normal, però quan es connecta a un ordinador pot executar comandes com si es digitessin des del teclat.
 
