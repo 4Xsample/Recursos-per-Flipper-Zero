@@ -1,3 +1,9 @@
+<a id="top">
+  <img src="../media/ducky_flipper.png" align="center" alt="Rubber Ducky" title="Rubber Ducky">
+</a>
+</br>
+</br>
+
 
 |               |               |               |               |               |               |
 |:-------------:|:-------------:|:-------------:|-------------:|-------------:|-------------:|
