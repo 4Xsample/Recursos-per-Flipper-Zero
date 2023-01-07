@@ -1,3 +1,9 @@
+Preguntes frequents sobre el
+<a id="top">
+  <img src="mv_flipper.png" align="center" alt="Media Vault" title="Media vault">
+</a>
+</br>
+</br>
 
 |               |               |               |               |               |               |
 |:-------------:|:-------------:|:-------------:|-------------:|-------------:|-------------:|
