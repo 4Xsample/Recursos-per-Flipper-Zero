@@ -36,6 +36,5 @@ Gràcies per passar!
 - [`Flipper-Xtreme` Firmware que agafa codi de tots els firmwares de la escena, millorant-ne la implementació i amb grafics NSFW arreu.](https://github.com/ClaraCrazy/Flipper-Xtreme)
 - [`Dexv0` Dexv0 es un firmware senzill i elegant que porta moltissims dumps d'arreu i molt obert a suggerencies de cares a millorar el desenvolupament.](https://github.com/DXVVAY/Dexv0)
 
-## Avís legal
-
-Aquests recursos es proporcionen únicament a títol informatiu. No em faig responsable dels danys que puguin resultar de l'ús d'aquesta informació. Utilitzeu-los sota la vostra responsabilitat.
+## Disclaimer: 
+*Aquest codi s'ofereix tal com és i no es garanteix que funcioni correctament en totes les condicions. No em faig responsable dels danys que puguin resultar de l'ús d'aquesta informació. Utilitzeu-lo sota la vostra pròpia responsabilitat. Si teniu dubtes pregunteu i respondré al que pugui. Si voleu obrir proposar cambis podeu obrir fork i i voleu seguir-me, al panel del principi d'aquest readme podeu trobar links a les meves xarxes socials, Twitch i PayPal per si també voleu donar suport al meu treball.*

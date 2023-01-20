@@ -35,3 +35,6 @@ Quan es connecta el Rubber Ducky al ordinador, es comença a executar el script.
 21. `ENTER` - Pressiona la tecla d'intro (Enter).
 
 Aquest script obre el diàleg "Executar", escriu la paraula "cmd" i pressiona intro per obrir una finestra del símbol del sistema, després descarrega una imatge d'Internet i la desa a l'ordinador amb el nom "image.jpg" a la carpeta arrel del disc C. A més a més, modifica la clau de registre de Windows per a establir la imatge descarregada com a fons d'escriptori per a tots els usuaris de l'ordinador i finalment actualitza els paràmetres del sistema per a que es reflecteixi el nou fons d'escriptori.
+
+## Disclaimer: 
+*Aquest codi s'ofereix tal com és i no es garanteix que funcioni correctament en totes les condicions. No em faig responsable dels danys que puguin resultar de l'ús d'aquesta informació. Utilitzeu-lo sota la vostra pròpia responsabilitat. Si teniu dubtes pregunteu i respondré al que pugui. Si voleu obrir proposar cambis podeu obrir fork i i voleu seguir-me, al panel del principi d'aquest readme podeu trobar links a les meves xarxes socials, Twitch i PayPal per si també voleu donar suport al meu treball.*

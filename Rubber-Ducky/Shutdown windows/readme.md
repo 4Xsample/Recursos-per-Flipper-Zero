@@ -26,3 +26,5 @@ Quan es connecta el Rubber Ducky al ordinador, es comença a executar el script.
 
 Aquest script obre el diàleg "Executar", escriu la paraula "cmd" i pressiona intro per obrir una finestra del símbol del sistema, i després introdueix una comanda per a apagar l'ordinador.
 
+## Disclaimer: 
+*Aquest codi s'ofereix tal com és i no es garanteix que funcioni correctament en totes les condicions. No em faig responsable dels danys que puguin resultar de l'ús d'aquesta informació. Utilitzeu-lo sota la vostra pròpia responsabilitat. Si teniu dubtes pregunteu i respondré al que pugui. Si voleu obrir proposar cambis podeu obrir fork i i voleu seguir-me, al panel del principi d'aquest readme podeu trobar links a les meves xarxes socials, Twitch i PayPal per si també voleu donar suport al meu treball.*
