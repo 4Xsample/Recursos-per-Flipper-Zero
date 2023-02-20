@@ -1,0 +1,29 @@
+STRING Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+DELAY 500
+ENTER
+STRING Fusce in quam eget dolor lobortis hendrerit at et lectus.
+DELAY 500
+ENTER
+STRING Phasellus fringilla odio vel consequat mollis.
+DELAY 500
+ENTER
+STRING Nulla ut velit pretium, volutpat magna sit amet, ultricies dolor.
+DELAY 500
+ENTER
+STRING Curabitur euismod semper odio, quis finibus lectus congue quis.
+DELAY 500
+ENTER
+STRING Sed aliquam nisi vel nulla blandit, non fermentum magna luctus.
+DELAY 500
+ENTER
+STRING Nunc cursus massa id ipsum fringilla, ac maximus leo interdum.
+DELAY 500
+ENTER
+STRING Sed at felis a lorem sollicitudin dignissim.
+DELAY 500
+ENTER
+STRING Nullam aliquam orci quis sapien interdum, vel rutrum diam malesuada.
+DELAY 500
+ENTER
+STRING Duis quis eros eget turpis consequat vestibulum in id mauris.
+ENTER
