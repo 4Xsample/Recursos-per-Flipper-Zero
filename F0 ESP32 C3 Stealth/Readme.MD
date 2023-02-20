@@ -9,10 +9,10 @@ Aquest disseny PCB s'ha creat durant els directes a [Twitch.tv/4Xsample](https:/
 ## Vista previa del disseny
 
 ### Vista superior
-![Vista superior del disseny PCB](F0 ESP32 C3 Stealth Top.png)
+<img src="F0 ESP32 C3 Stealth Top.png" align="center" alt="Vista superior del disseny PCB" title="Vista superior del disseny PCB">
 
 ### Vista inferior
-![Vista inferior del disseny PCB](F0 ESP32 C3 Stealth Bottom.png)
+<img src="F0 ESP32 C3 Stealth Bottom.png" align="center" alt="Vista inferior del disseny PCB" title="Vista inferior del disseny PCB">
 
 ## Com obtenir el disseny PCB
 
