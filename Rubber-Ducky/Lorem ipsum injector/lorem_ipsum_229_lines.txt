@@ -1,0 +1,683 @@
+STRING Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+DELAY 500
+ENTER
+STRING Fusce in quam eget dolor lobortis hendrerit at et lectus.
+DELAY 500
+ENTER
+STRING Phasellus fringilla odio vel consequat mollis.
+DELAY 500
+ENTER
+STRING Nulla ut velit pretium, volutpat magna sit amet, ultricies dolor.
+DELAY 500
+ENTER
+STRING Curabitur euismod semper odio, quis finibus lectus congue quis.
+DELAY 500
+ENTER
+STRING Sed aliquam nisi vel nulla blandit, non fermentum magna luctus.
+DELAY 500
+ENTER
+STRING Nunc cursus massa id ipsum fringilla, ac maximus leo interdum.
+DELAY 500
+ENTER
+STRING Sed at felis a lorem sollicitudin dignissim.
+DELAY 500
+ENTER
+STRING Nullam aliquam orci quis sapien interdum, vel rutrum diam malesuada.
+DELAY 500
+ENTER
+STRING Duis quis eros eget turpis consequat vestibulum in id mauris.
+DELAY 500
+ENTER
+STRING Mauris tincidunt orci vel magna bibendum sagittis.
+DELAY 500
+ENTER
+STRING Vestibulum eget lorem nec quam congue semper.
+DELAY 500
+ENTER
+STRING Donec euismod turpis sed quam efficitur, ut blandit ante vehicula.
+DELAY 500
+ENTER
+STRING Maecenas vel libero nec lacus mattis convallis non non metus.
+DELAY 500
+ENTER
+STRING Vivamus hendrerit purus ac lectus lacinia, ut commodo enim commodo.
+DELAY 500
+ENTER
+STRING Fusce eget velit a mi vehicula blandit ac a elit.
+DELAY 500
+ENTER
+STRING Nullam eleifend sapien eu est convallis, vel imperdiet orci venenatis.
+DELAY 500
+ENTER
+STRING Nam eget quam vel nibh semper maximus a vitae mi.
+DELAY 500
+ENTER
+STRING Fusce faucibus ex ac sapien fermentum, quis tincidunt libero faucibus.
+DELAY 500
+ENTER
+STRING Integer volutpat mauris vitae dui hendrerit, sed aliquam ante tincidunt.
+DELAY 500
+ENTER
+STRING Aliquam ornare sapien eu magna tincidunt, sed blandit velit tristique.
+DELAY 500
+ENTER
+STRING Sed dignissim tortor a libero accumsan varius.
+DELAY 500
+ENTER
+STRING Duis ut semper enim, eget mollis odio.
+DELAY 500
+ENTER
+STRING Fusce vel velit sit amet ex laoreet ultrices vel eu sapien.
+DELAY 500
+ENTER
+STRING Sed vitae justo ut nunc elementum faucibus eget eu arcu.
+DELAY 500
+ENTER
+STRING Aliquam in libero in nulla posuere consequat.
+DELAY 500
+ENTER
+STRING Proin commodo mauris ac ligula ullamcorper ultrices.
+DELAY 500
+ENTER
+STRING Sed non nunc vel lacus gravida feugiat.
+DELAY 500
+ENTER
+STRING Nullam eget velit at erat malesuada lobortis eu vitae ipsum.
+DELAY 500
+ENTER
+STRING Sed vehicula metus ac ipsum ultrices, sit amet egestas orci mattis.
+DELAY 500
+ENTER
+STRING Donec tincidunt velit a orci bibendum, quis consectetur velit commodo.
+DELAY 500
+ENTER
+STRING Fusce id elit euismod, malesuada nunc eget,accumsan odio.
+DELAY 500
+ENTER
+STRING Sed scelerisque nisl eget nisi efficitur, at fermentum velit maximus.
+DELAY 500
+ENTER
+STRING Nam hendrerit enim a eros mollis, id posuere eros bibendum.
+DELAY 500
+ENTER
+STRING Quisque finibus urna non ante iaculis dignissim.
+DELAY 500
+ENTER
+STRING Sed sit amet justo vitae odio sollicitudin ultrices id ac lectus.
+DELAY 500
+ENTER
+STRING Ut sit amet nisi ac velit gravida consectetur a eu ex.
+DELAY 500
+ENTER
+STRING Sed sodales orci id libero molestie elementum.
+DELAY 500
+ENTER
+STRING Fusce finibus nisl non velit volutpat convallis.
+DELAY 500
+ENTER
+STRING Sed malesuada lacus at velit feugiat aliquam.
+DELAY 500
+ENTER
+STRING Sed eget mi vel metus sagittis molestie nec sit amet arcu.
+DELAY 500
+ENTER
+STRING Nulla vel eros ac velit fringilla bibendum ut quis diam.
+DELAY 500
+ENTER
+STRING Fusce ac magna varius, dictum lacus id, faucibus lectus.
+DELAY 500
+ENTER
+STRING Sed sed ex in arcu elementum hendrerit at a ipsum.
+DELAY 500
+ENTER
+STRING Morbi commodo quam vitae augue blandit, nec maximus urna fermentum.
+DELAY 500
+ENTER
+STRING Integer hendrerit eros a ante commodo fringilla.
+DELAY 500
+ENTER
+STRING Sed in quam nec est sagittis semper sed at ex.
+DELAY 500
+ENTER
+STRING In vitae risus eu metus facilisis viverra id id mi.
+DELAY 500
+ENTER
+STRING Suspendisse sodales quam sed mi venenatis auctor.
+DELAY 500
+ENTER
+STRING Donec tincidunt ipsum non nisl finibus, nec tristique velit posuere.
+DELAY 500
+ENTER
+STRING Duis suscipit tellus id eros congue, eget elementum libero tristique.
+DELAY 500
+ENTER
+STRING Sed interdum quam a augue euismod, ut blandit augue feugiat.
+DELAY 500
+ENTER
+STRING Etiam ullamcorper arcu vitae risus tempor, nec molestie arcu bibendum.
+DELAY 500
+ENTER
+STRING Aliquam auctor tortor id lorem ultricies, ac dictum eros hendrerit.
+DELAY 500
+ENTER
+STRING Phasellus a nisl ut metus varius convallis.
+DELAY 500
+ENTER
+STRING Curabitur aliquet sapien eget ipsum lobortis, eget lacinia sapien ultrices.
+DELAY 500
+ENTER
+STRING Aenean blandit elit sed elit commodo, sit amet rutrum ipsum volutpat.
+DELAY 500
+ENTER
+STRING Sed euismod sapien vel nibh cursus maximus.
+DELAY 500
+ENTER
+STRING Sed non odio euismod, efficitur libero vel, consequat enim.
+DELAY 500
+ENTER
+STRING Maecenas laoreet tortor at neque ultricies, eget tristique eros vestibulum.
+DELAY 500
+ENTER
+STRING Vivamus feugiat eros ut sapien faucibus, vel varius augue malesuada.
+DELAY 500
+ENTER
+STRING Etiam commodo nisi eu mi facilisis gravida.
+DELAY 500
+ENTER
+STRING Nulla eget sapien vel ipsum laoreet venenatis.
+DELAY 500
+ENTER
+STRING In at felis consequat, commodo nibhet, suscipit sapien.
+DELAY 500
+ENTER
+STRING Praesent tincidunt erat quis quam maximus, in aliquet nibh facilisis.
+DELAY 500
+ENTER
+STRING Nam congue magna ac risus hendrerit lobortis.
+DELAY 500
+ENTER
+STRING Integer eget ipsum ac orci pellentesque imperdiet.
+DELAY 500
+ENTER
+STRING Maecenas consequat tellus in quam consectetur, vel laoreet ipsum facilisis.
+DELAY 500
+ENTER
+STRING Curabitur ac orci vel turpis blandit sollicitudin.
+DELAY 500
+ENTER
+STRING Fusce eget enim feugiat, vehicula lorem sit amet, ullamcorper dui.
+DELAY 500
+ENTER
+STRING Aenean nec metus nec ipsum malesuada accumsan.
+DELAY 500
+ENTER
+STRING Nulla in turpis nec nisl bibendum tristique.
+DELAY 500
+ENTER
+STRING Proin hendrerit nulla nec lorem tincidunt, at pharetra mauris finibus.
+DELAY 500
+ENTER
+STRING Phasellus blandit est a magna viverra bibendum.
+DELAY 500
+ENTER
+STRING Sed ultrices lacus id eros congue, sit amet luctus nisl convallis.
+DELAY 500
+ENTER
+STRING Vivamus eget risus aliquet, euismod augue at, tempor lectus.
+DELAY 500
+ENTER
+STRING Donec quis libero vel risus vehicula varius.
+DELAY 500
+ENTER
+STRING Sed euismod ex nec eros bibendum faucibus.
+DELAY 500
+ENTER
+STRING Aenean scelerisque arcu nec dolor accumsan, at aliquet dolor mollis.
+DELAY 500
+ENTER
+STRING Mauris sed urna ultrices, mattis sem id, pharetra nibh.
+DELAY 500
+ENTER
+STRING Maecenas eget eros ut dolor bibendum ullamcorper eu ut mi.
+DELAY 500
+ENTER
+STRING Aliquam ornare felis vel mi euismod, a ultricies turpis vestibulum.
+DELAY 500
+ENTER
+STRING Fusce vitae nibh rutrum, posuere eros id, consequat sapien.
+DELAY 500
+ENTER
+STRING Nulla facilisi. Sed ut ex fermentum, lacinia orci at, tristique mi.
+DELAY 500
+ENTER
+STRING Pellentesque efficitur quam vel libero suscipit faucibus.
+DELAY 500
+ENTER
+STRING Maecenas hendrerit orci quis metus bibendum, vel convallis sapien efficitur.
+DELAY 500
+ENTER
+STRING Nullam lobortis justo eu mauris fringilla, id tempor nunc consequat.
+DELAY 500
+ENTER
+STRING Donec ut enim a elit dignissim semper sed vitae mi.
+DELAY 500
+ENTER
+STRING Sed vel odio eu nulla dictum efficitur. 
+ENTER
+STRING Fusce sit amet est nec nibh congue bibendum.
+DELAY 500
+ENTER
+STRING Suspendisse ac dolor in orci hendrerit pharetra.
+DELAY 500
+ENTER
+STRING Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas.
+DELAY 500
+ENTER
+STRING In eget metus ullamcorper, pretium metus ac, sagittis mauris.
+DELAY 500
+ENTER
+STRING Vestibulum suscipit nisl at eros euismod, vel dignissim orci lacinia.
+DELAY 500
+ENTER
+STRING Etiam in mauris vel turpis tincidunt aliquet.
+DELAY 500
+ENTER
+STRING Vivamus eget elit id velit ornare posuere sit amet sit amet libero.
+DELAY 500
+ENTER
+STRING Nunc pharetra quam eget lectus facilisis, vel pharetra turpis tempor.
+DELAY 500
+ENTER
+STRING Aenean blandit tellus vitae enim posuere ullamcorper.
+DELAY 500
+ENTER
+STRING Quisque in augue a magna consequat maximus.
+DELAY 500
+ENTER
+STRING Aenean suscipit arcu vel nibh tristique bibendum.
+DELAY 500
+ENTER
+STRING Donec vitae augue ut risus imperdiet laoreet ut vel quam.
+DELAY 500
+ENTER
+STRING Fusce non nisi non nisl posuere ultricies quis vel est.
+DELAY 500
+ENTER
+STRING Nam ornare ipsum id semper eleifend.
+DELAY 500
+ENTER
+STRING Aliquam fringilla erat vitae eros lobortis euismod.
+DELAY 500
+ENTER
+STRING Nulla vel sapien ac dolor malesuada bibendum.
+DELAY 500
+ENTER
+STRING Nunc at mauris in lacus faucibus blandit.
+DELAY 500
+ENTER
+STRING Sed convallis sapien a tristique lobortis.
+DELAY 500
+ENTER
+STRING Vivamus a libero eget ex hendrerit sollicitudin.
+DELAY 500
+ENTER
+STRING Donec suscipit nunc in orci lacinia, id vestibulum nulla lacinia.
+DELAY 500
+ENTER
+STRING Integer consequat metus non nisl aliquet, quis vehicula ipsum bibendum.
+DELAY 500
+ENTER
+STRING In at est in lectus bibendum imperdiet.
+DELAY 500
+ENTER
+STRING Aenean vel nibh vel ipsum tristique auctor.
+DELAY 500
+ENTER
+STRING Ut ullamcorper tellus vitae dolor dapibus auctor.
+DELAY 500
+ENTER
+STRING Donec nec mauris ac ipsum congue dignissim.
+DELAY 500
+ENTER
+STRING Morbi sit amet velit finibus, convallis arcu eget, tincidunt odio.
+DELAY 500
+ENTER
+STRING Suspendisse potenti. Suspendisse bibendum felis eu convallis laoreet.
+DELAY 500
+ENTER
+STRING Vivamus ultricies dolor ut sapien efficitur, nec venenatis velit gravida.
+DELAY 500
+ENTER
+STRING Duis a lectus at tellus ultrices facilisis.
+DELAY 500
+ENTER
+STRING Fusce finibus tellus non magna mattis, a faucibus nulla fermentum.
+DELAY 500
+ENTER
+STRING Aliquam eu nisi eget nibh gravida vehicula.
+DELAY 500
+ENTER
+STRING Suspendisse at nisi nec nunc lobortis accumsan.
+DELAY 500
+ENTER
+STRING Pellentesque etligula porta laoreet in ac justo.
+DELAY 500
+ENTER
+STRING Nulla facilisi. Nam vel augue vestibulum, suscipit lectus eu, ullamcorper lacus.
+DELAY 500
+ENTER
+STRING Donec pharetra elit vitae dui dignissim, in elementum augue semper.
+DELAY 500
+ENTER
+STRING Praesent sit amet elit aliquet, posuere sem id, efficitur nibh.
+DELAY 500
+ENTER
+STRING Curabitur sollicitudin mauris a mi posuere, in blandit orci hendrerit.
+DELAY 500
+ENTER
+STRING Maecenas ullamcorper velit eget turpis finibus, nec consequat tortor rhoncus.
+DELAY 500
+ENTER
+STRING Cras fringilla odio vel arcu pharetra, vel efficitur lectus eleifend.
+DELAY 500
+ENTER
+STRING Nunc vel est in nulla posuere dictum.
+DELAY 500
+ENTER
+STRING Aliquam erat volutpat. Nulla facilisi.
+DELAY 500
+ENTER
+STRING Mauris at enim id lectus accumsan rhoncus.
+DELAY 500
+ENTER
+STRING Vestibulum gravida felis vel ipsum elementum, at blandit est suscipit.
+DELAY 500
+ENTER
+STRING Sed ut eros vitae mauris feugiat bibendum a a dolor.
+DELAY 500
+ENTER
+STRING Etiam quis ex euismod, bibendum dui sit amet, pellentesque turpis.
+DELAY 500
+ENTER
+STRING Praesent et velit vitae mauris venenatis congue eu ac mi.
+DELAY 500
+ENTER
+STRING Fusce vitae justo euismod, dignissim magna eu, venenatis dolor.
+DELAY 500
+ENTER
+STRING Vestibulum euismod lorem sit amet felis dapibus iaculis.
+DELAY 500
+ENTER
+STRING Etiam a turpis at lorem vestibulum euismod ac sed metus.
+DELAY 500
+ENTER
+STRING Aliquam auctor semper leo, vel tristique risus pretium vel.
+DELAY 500
+ENTER
+STRING Ut pharetra risus a lacinia suscipit.
+DELAY 500
+ENTER
+STRING Fusce vehicula mi a nibh ultricies, ac blandit nisl consectetur.
+DELAY 500
+ENTER
+STRING Pellentesque viverra odio at diam pellentesque, vel cursus justo bibendum.
+DELAY 500
+ENTER
+STRING Vivamus vulputate tortor vitae metus eleifend interdum.
+DELAY 500
+ENTER
+STRING Curabitur in elit in elit convallis tristique nec vel justo.
+DELAY 500
+ENTER
+STRING Fusce vel nunc sagittis, mattis est eget, finibus mi.
+DELAY 500
+ENTER
+STRING Suspendisse non tellus non arcu maximus rutrum.
+DELAY 500
+ENTER
+STRING Nullam auctor sapien eu nisi faucibus, eget viverra enim imperdiet.
+DELAY 500
+ENTER
+STRING Fusce volutpat turpis in nisi consectetur consequat.
+DELAY 500
+ENTER
+STRING Nunc congue eros eu leo pellentesque lacinia.
+DELAY 500
+ENTER
+STRING Aliquam quis purus tristique, bibendum odio non, aliquam purus.
+DELAY 500
+ENTER
+STRING Nullam dignissim nulla vel sapien ultricies, eget scelerisque elit hendrerit.
+DELAY 500
+ENTER
+STRING Aliquam gravida quam vel mauris ultrices mattis.
+DELAY 500
+ENTER
+STRING Aliquam consectetur metus ac erat sagittis tincidunt.
+DELAY 500
+ENTER
+STRING Pellentesque vel velit in purus malesuada luctus.
+DELAY 500
+ENTER
+STRING Sed volutpat ante ac justo mollis iaculis.
+DELAY 500
+ENTER
+STRING Sed interdum augue vitae velit tincidunt dictum.
+DELAY 500
+ENTER
+STRING Nulla facilisi. Nullam faucibus nulla a efficitur auctor.
+DELAY 500
+ENTER
+STRING Nullam euismod dolor eu odio rutrum, eget malesuada est hendrerit.
+DELAY 500
+ENTER
+STRING Fusce pellentesque velit sed dui aliquam, eget commodo eros sodales.
+DELAY 500
+ENTER
+STRING Nulla molestie dolor vitae leo viverra, ac lacinia ante laoreet.
+DELAY 500
+ENTER
+STRING Maecenas eu nunc at nunc varius sollicitudin.
+DELAY 500
+ENTER
+STRING Fusce a metus id lectus bibendum interdum at at justo.
+DELAY 500
+ENTER
+STRING Vestibulum vitae tellus auctor, tristique nisl eget, mollis est.
+DELAY 500
+ENTER
+STRING In et ipsum vel sapien consectetur luctus.
+DELAY 500
+ENTER
+STRING In nec urna vel ipsum posuere hendrerit at eu elit.
+DELAY 500
+ENTER
+STRING Nullam consectetur nulla vel dignissim feugiat.
+DELAY 500
+ENTER
+STRING Sed non lacus a metus dignissim rhoncus.
+DELAY 500
+ENTER
+STRING Curabitur non erat sed odio ullamcorper consequat sed vel ipsum.
+DELAY 500
+ENTER
+STRING Phasellus ut nisi id ipsum congue dictum.
+DELAY 500
+ENTER
+STRING Vestibulum eleifend sapien ut est aliquam, vel posuere nibh sodales.
+DELAY 500
+ENTER
+STRING Fusce eget ex tincidunt, congue dolor eget, ullamcorper ante.
+DELAY 500
+ENTER
+STRING Nam et tellus eget diam efficitur efficitur.
+DELAY 500
+ENTER
+STRING Aliquam in sem in metus bibendum consectetur.
+DELAY 500
+ENTER
+STRING Praesent sagittis lorem vel mauris dictum commodo.
+DELAY 500
+ENTER
+STRING Duis a magna vel ipsum euismod varius eget vitae lacus.
+DELAY 500
+ENTER
+STRING Sed non metus ut tortor fermentum hendrerit vitae eu lectus.
+DELAY 500
+ENTER
+STRING Aenean quis sapien eu est tristique tristique in vitae odio.
+DELAY 500
+ENTER
+STRING Integer id arcu nec ex eleifend consequat vel quis arcu.
+DELAY 500
+ENTER
+STRING Pellentesque quis nibh nec velit bibendum pulvinar sit amet ac urna.
+DELAY 500
+ENTER
+STRING Donec at risus in odio rutrum semper euismod vel lorem.
+ENTER
+STRING Maecenas finibus odio a velit dapibus commodo.
+DELAY 500
+ENTER
+STRING Sed at neque quis mi commodo aliquam ut nec est.
+DELAY 500
+ENTER
+STRING Nullam commodo lacus in enim bibendum maximus.
+DELAY 500
+ENTER
+STRING Sed eget lacus aliquam, pellentesque ex non, viverra elit.
+DELAY 500
+ENTER
+STRING Nam nec magna vitae ante ultricies suscipit id id sapien.
+DELAY 500
+ENTER
+STRING Fusce pharetra risus id felis commodo, sed mattis massa malesuada.
+DELAY 500
+ENTER
+STRING Praesent sit amet mi a risus viverra pretium.
+DELAY 500
+ENTER
+STRING Nam eu magna ac enim iaculis commodo.
+DELAY 500
+ENTER
+STRING Vivamus eget mauris molestie, euismod odio ac, dignissim lectus.
+DELAY 500
+ENTER
+STRING Maecenas sit amet augue in turpis tincidunt finibus.
+DELAY 500
+ENTER
+STRING Nulla eget enim quis risus vehicula vulputate a ac nulla.
+DELAY 500
+ENTER
+STRING Etiam bibendum semper augue, vel viverra est maximus non.
+DELAY 500
+ENTER
+STRING Maecenas nec velit sed ante consequat pharetra eget sed nisi.
+DELAY 500
+ENTER
+STRING Aliquam et sem ut ipsum efficitur malesuada in ut orci.
+DELAY 500
+ENTER
+STRING Proin congue elit ut quam elementum, a imperdiet nisi volutpat.
+DELAY 500
+ENTER
+STRING Sed eleifend dolor eu nulla maximus, eu lacinia sapien convallis.
+DELAY 500
+ENTER
+STRING Vestibulum vel elit at elit finibus dictum quis sed risus.
+DELAY 500
+ENTER
+STRING Nullam bibendum velit a lacus hendrerit, sed luctus mi aliquam.
+DELAY 500
+ENTER
+STRING Vivamus non risus blandit, maximus nisl ut, pretium tellus.
+DELAY 500
+ENTER
+STRING Praesent vel felis ut nisi interdum mattis.
+DELAY 500
+ENTER
+STRING Ut congue sapien ut massa suscipit suscipit.
+DELAY 500
+ENTER
+STRING Duis in dolor vel tellus facilisis lacinia sed vel nunc.
+DELAY 500
+ENTER
+STRING Donec eleifend turpis eu felis sollicitudin varius.
+DELAY 500
+ENTER
+STRING In eget ipsum eu sapien laoreet feugiat.
+DELAY 500
+ENTER
+STRING Pellentesque bibendum tellus ac massa auctor, sit amet feugiat elit bibendum.
+DELAY 500
+ENTER
+STRING Etiam a nulla ac tellus volutpat luctus sed quis magna.
+DELAY 500
+ENTER
+STRING Ut vitae mi id nulla gravida tempor vel eu risus.
+DELAY 500
+ENTER
+STRING Curabitur finibus nulla quis dui bibendum pulvinar.
+ENTER
+STRING Donec eget magna quis sapien dictum luctus vel eget ipsum.
+DELAY 500
+ENTER
+STRING Nam bibendum nunc vitae tellus rhoncus, sed faucibus libero dictum.
+DELAY 500
+ENTER
+STRING Sed vel ex in elit ultricies suscipit.
+DELAY 500
+ENTER
+STRING Vestibulum dapibus enim vitae augue venenatis, sit amet tincidunt nisl dictum.
+DELAY 500
+ENTER
+STRING Maecenas semper nibh vitae odio tristique, nec mollis risus malesuada.
+DELAY 500
+ENTER
+STRING Vivamus malesuada sapien a luctus congue.
+DELAY 500
+ENTER
+STRING Quisque euismod urna eu tellus sollicitudin aliquet.
+DELAY 500
+ENTER
+STRING Nulla tristique urna in justo bibendum, at molestie lacus vulputate.
+DELAY 500
+ENTER
+STRING Suspendisse et enim auctor, tristique dolor ut, varius nisl.
+DELAY 500
+ENTER
+STRING Nam scelerisque nulla nec bibendum venenatis.
+DELAY 500
+ENTER
+STRING Maecenas at velit blandit, congue velit non, consequat dolor.
+DELAY 500
+ENTER
+STRING Aenean dignissim orci quis turpis euismod bibendum.
+DELAY 500
+ENTER
+STRING Ut vel purus sed lectus commodo dignissim.
+DELAY 500
+ENTER
+STRING Fusce tincidunt metus a finibus rhoncus.
+DELAY 500
+ENTER
+STRING Nullam vehicula nisi vel nunc laoreet, in gravida metus accumsan.
+DELAY 500
+ENTER
+STRING Praesent vel velit in velit elementum fringilla.
+DELAY 500
+ENTER
+STRING Phasellus eu ante ut velit tincidunt egestas.
+DELAY 500
+ENTER
+STRING Aliquam nec neque non arcu faucibus accumsan.
+DELAY 500
+ENTER
+STRING Sed luctus enim nec orci dictum, non egestas urna iaculis.
+DELAY 500
+ENTER
+STRING Fusce in nisi in turpis efficitur convallis.
+DELAY 500
+ENTER
+STRING Vivamus gravida libero quis tortor eleifend, a semper nibh consequat.
+ENTER
