@@ -5,6 +5,7 @@
 # Script d'injectar text Lorem Ipsum per a Flipper Zero
 
 Aquest script serveix per a injectar text Lorem Ipsum en un dispositiu a través de la funció BadUSB o BadKB de Flipper Zero. 
+Jo personalment faig servir aquest script per fer proves en xats on necessito tenir una injecció constant de linies per comprovar com reaccionen automatismes, etc.
 
 ## Requisits
 
