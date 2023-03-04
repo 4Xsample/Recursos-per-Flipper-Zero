@@ -33,8 +33,6 @@ Per utilitzar aquest script, només has de seguir aquests passos senzills:
 6. Observa com el script descarrega les últimes actualitzacions del repositori des de la branca "origin".
 7. Contempla amb admiració com el script actualitza el clon local del repositori al darrer commit de la branca "main".
 
-I això és tot! Ja no has de preocupar-te per actualitzar manualment els teus repositoris com un animal prehistòric. De res!
-
 ## Com utilitzar l'script en un Flipper Zero
 
 1. Personalitza l'script segons les teves necessitats (Nomes les necessitats contemplades a l'apartat de personalització, sobre les teves altres necessitats ja t'espavilaras)
@@ -45,6 +43,8 @@ I això és tot! Ja no has de preocupar-te per actualitzar manualment els teus r
 6. Espera uns segons mentre el script navega fins a la carpeta del clon del repositori. (Crec que fins hi tot tu sabras fer-ho això d'esperar i no fotre l'ou)
 7. Observa com el script descarrega les últimes actualitzacions del repositori des de la branca "origin".
 8. Contempla amb admiració com el script actualitza el clon local del repositori al darrer commit de la branca "main".
+
+I això és tot! Ja no has de preocupar-te per actualitzar manualment els teus repositoris com un animal prehistòric. De res!
 
 
 ## Nota
