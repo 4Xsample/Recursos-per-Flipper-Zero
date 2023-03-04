@@ -1,0 +1,11 @@
+STRING sudo su
+ENTER
+DELAY 1000
+STRING cd /var/www/html/A_cagar_a_la_via
+ENTER
+DELAY 500
+STRING git fetch origin
+ENTER
+DELAY 500
+STRING git reset --hard origin/main
+ENTER
