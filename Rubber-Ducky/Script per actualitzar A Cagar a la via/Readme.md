@@ -44,6 +44,7 @@ Per utilitzar aquest script, només has de seguir aquests passos senzills:
 7. Observa com el script descarrega les últimes actualitzacions del repositori des de la branca "origin".
 8. Contempla amb admiració com el script actualitza el clon local del repositori al darrer commit de la branca "main".
 
+
 I això és tot! Ja no has de preocupar-te per actualitzar manualment els teus repositoris com un animal prehistòric. De res!
 
 
