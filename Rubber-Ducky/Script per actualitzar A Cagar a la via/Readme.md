@@ -29,10 +29,9 @@ Per utilitzar aquest script, només has de seguir aquests passos senzills:
 2. Converteix el contingut del fitxer `rubber_ducky_script.txt` amb la aplicació `ducktools.py` per generar l'arxiu `inject.bin`.
 3. Copia l'arxiu `inject.bin` a una tarjeta sd i posar-la al Rubber Ducky.
 4. Connecta el teu dispositiu Rubber Ducky al teu servidor i deixa que s'executi l'script.
-5. Si el teu sistema requereix contrasenya de superusuari, pots personalitzar l'script afegint una línia per escriure la contrasenya despres de l'ordre `sudo su` i repetir la estructura de esperar 500ms (tot i que depenent de lo ple de merda que tinguis l'ordinador i lo lent que sigui potser convé donar-li mes temps) i de polsar enter. 
-6. Espera uns segons mentre el script navega fins a la carpeta del clon del repositori. (Crec que fins hi tot tu sabras fer-ho això d'esperar i no fotre l'ou)
-7. Observa com el script descarrega les últimes actualitzacions del repositori des de la branca "origin".
-8. Contempla amb admiració com el script actualitza el clon local del repositori al darrer commit de la branca "main".
+5. Espera uns segons mentre el script navega fins a la carpeta del clon del repositori. (Crec que fins hi tot tu sabras fer-ho això d'esperar i no fotre l'ou)
+6. Observa com el script descarrega les últimes actualitzacions del repositori des de la branca "origin".
+7. Contempla amb admiració com el script actualitza el clon local del repositori al darrer commit de la branca "main".
 
 I això és tot! Ja no has de preocupar-te per actualitzar manualment els teus repositoris com un animal prehistòric. De res!
 
@@ -43,10 +42,9 @@ I això és tot! Ja no has de preocupar-te per actualitzar manualment els teus r
 3. Obre la app ``BadUsb`` o ``BadKb`` del Flipper Zero i selecciona el payload.
 4. Conecta via usb o bluetooth el flipper zero al ordinador objectiu.
 5. Executa el payload. (Els següents passos potser et sonen una mica, no t'espantis)
-6. Si el teu sistema requereix contrasenya de superusuari, pots personalitzar l'script afegint una línia per escriure la contrasenya despres de l'ordre `sudo su` i repetir la estructura de esperar 500ms (tot i que depenent de lo ple de merda que tinguis l'ordinador i lo lent que sigui potser convé donar-li mes temps) i de polsar enter. 
-7. Espera uns segons mentre el script navega fins a la carpeta del clon del repositori. (Crec que fins hi tot tu sabras fer-ho això d'esperar i no fotre l'ou)
-8. Observa com el script descarrega les últimes actualitzacions del repositori des de la branca "origin".
-9. Contempla amb admiració com el script actualitza el clon local del repositori al darrer commit de la branca "main".
+6. Espera uns segons mentre el script navega fins a la carpeta del clon del repositori. (Crec que fins hi tot tu sabras fer-ho això d'esperar i no fotre l'ou)
+7. Observa com el script descarrega les últimes actualitzacions del repositori des de la branca "origin".
+8. Contempla amb admiració com el script actualitza el clon local del repositori al darrer commit de la branca "main".
 
 
 ## Nota
