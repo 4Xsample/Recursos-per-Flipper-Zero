@@ -26,7 +26,7 @@ Si estem parlant d'un servidor tan segur com per utilitzar codis per al root, se
 Per utilitzar aquest script, només has de seguir aquests passos senzills:
 
 1. Personalitza l'script segons les teves necessitats (Nomes les necessitats contemplades a l'apartat de personalització, sobre les teves altres necessitats ja t'espavilaras)
-2. Converteix el contingut del fitxer `rubber_ducky_script.txt` amb la aplicació `ducktools.py` per generar l'arxiu `inject.bin`.
+2. Converteix el contingut del fitxer `Update A cagar.txt` amb la aplicació `ducktools.py` per generar l'arxiu `inject.bin`.
 3. Copia l'arxiu `inject.bin` a una tarjeta sd i posar-la al Rubber Ducky.
 4. Connecta el teu dispositiu Rubber Ducky al teu servidor i deixa que s'executi l'script.
 5. Espera uns segons mentre el script navega fins a la carpeta del clon del repositori. (Crec que fins hi tot tu sabras fer-ho això d'esperar i no fotre l'ou)
@@ -36,8 +36,8 @@ Per utilitzar aquest script, només has de seguir aquests passos senzills:
 ## Com utilitzar l'script en un Flipper Zero
 
 1. Personalitza l'script segons les teves necessitats (Nomes les necessitats contemplades a l'apartat de personalització, sobre les teves altres necessitats ja t'espavilaras)
-2. Copia l'arxiu ``Update A cagar.txt`` a la carpeta ``BadUSB`` o ``BadKB`` del flipper zero
-3. Obre la app ``BadUsb`` o ``BadKb`` del Flipper Zero i selecciona el payload.
+2. Copia l'arxiu `Update A cagar.txt` a la carpeta `BadUSB` o `BadKB` del flipper zero
+3. Obre la app `BadUsb` o `BadKb` del Flipper Zero i selecciona el payload.
 4. Conecta via usb o bluetooth el flipper zero al ordinador objectiu.
 5. Executa el payload. (Els següents passos potser et sonen una mica, no t'espantis)
 6. Espera uns segons mentre el script navega fins a la carpeta del clon del repositori. (Crec que fins hi tot tu sabras fer-ho això d'esperar i no fotre l'ou)

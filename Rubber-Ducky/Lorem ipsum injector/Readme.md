@@ -11,19 +11,26 @@ Jo personalment faig servir aquest script per fer proves en xats on necessito te
 
 Per a utilitzar aquest script, es necessita un dispositiu amb connexió USB o Bluetooth, i Flipper Zero amb la app BadUSB o BadKB.
 
-## Instal·lació
+## Com utilitzar l'script en un Rubber ducky
 
-1. Carrega el fitxer `lorem_ipsum_10_lines.txt` o `lorem_ipsum_229_lines.txt` a la carpeta `badusb` o `badkb`, depenent del firmware que estiguis utilitzant, a través de l'aplicació QFlipper en el teu PC o directament carregant l'arxiu a la targeta SD a la carpeta corresponent.
+Per utilitzar aquest script, només has de seguir aquests passos senzills:
 
-2. Accedeix a l'aplicació BadUSB o BadKB, depenent del firmware que estiguis utilitzant.
+1. Personalitza l'script segons les teves necessitats (Nomes les necessitats contemplades a l'apartat de personalització, sobre les teves altres necessitats ja t'espavilaras)
+2. Converteix el contingut del fitxer `lorem_ipsum_10_lines.txt` amb la aplicació `ducktools.py` per generar l'arxiu `inject.bin`.
+3. Copia l'arxiu `inject.bin` a una tarjeta sd i posar-la al Rubber Ducky.
+4. Connecta el teu dispositiu Rubber Ducky al teu servidor i deixa que s'executi l'script.
+5. Deixa que l'script vagi escrivint el lorem ipsum linia rere linia sense haver de moure un dit (Crec que fins hi tot tu sabras fer-ho això d'esperar i no fotre l'ou)
 
-3. Connecta el Flipper Zero al dispositiu que vols escriure a través de la connexió USB o Bluetooth.
+## Com utilitzar l'script en un Flipper Zero
 
-4. Si utilitzes l'aplicació BadUSB, selecciona directament el payload que vols desplegar. Si utilitzes l'aplicació BadKB, tria entre fer l'atac a través de la connexió USB o emular un dispositiu Bluetooth al qual, si qualsevol dispositiu es connecta, farà d'HID.
+1. Personalitza l'script segons les teves necessitats (Nomes les necessitats contemplades a l'apartat de personalització, sobre les teves altres necessitats ja t'espavilaras)
+2. Copia l'arxiu `lorem_ipsum_10_lines.txt` a la carpeta `BadUSB` o `BadKB` del flipper zero
+3. Obre la app `BadUsb` o `BadKb` del Flipper Zero i selecciona el payload.
+4. Conecta via usb o bluetooth el flipper zero al ordinador objectiu.
+5. Executa el payload.
+6. Deixa que l'script vagi escrivint el lorem ipsum linia rere linia sense haver de moure un dit (Crec que fins hi tot tu sabras fer-ho això d'esperar i no fotre l'ou)
 
-5. Si cal, accedeix al menú de configuració fent clic a la fletxa esquerra per assegurar-te que has seleccionat el layout de teclat adequat per al dispositiu al qual vols injectar els caràcters.
-
-6. Executa el payload triat. El script injectarà el text Lorem Ipsum allà on tinguis seleccionat.
+I això és tot! Ja no has de preocupar-te per escriure aquest text tant valuos a ma, be a cop de tecla vull dir.
 
 El text que s'injecta és el Lorem Ipsum, un text de farciment utilitzat com a exemple en la indústria de la tipografia i la impressió. Si vols injectar més o menys text, pots triar entre dos payloads diferents: un amb 10 línies i un amb 229 línies. 
 
